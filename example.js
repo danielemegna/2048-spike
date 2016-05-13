@@ -8,6 +8,7 @@ function Ai() {
     }
 
     this.step = function(grid) {
+        return 2;
         // This method is called on every update.
         // Return one of these integers to move tiles on the grid:
         // 0: up, 1: right, 2: down, 3: left
